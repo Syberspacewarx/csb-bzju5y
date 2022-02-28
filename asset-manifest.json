@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://syberspacewarx.github.io/csb-bzju5y/static/css/main.f446bcce.chunk.css",
+    "main.js": "https://syberspacewarx.github.io/csb-bzju5y/static/js/main.70aca6b4.chunk.js",
+    "main.js.map": "https://syberspacewarx.github.io/csb-bzju5y/static/js/main.70aca6b4.chunk.js.map",
+    "runtime-main.js": "https://syberspacewarx.github.io/csb-bzju5y/static/js/runtime-main.5ccb0d50.js",
+    "runtime-main.js.map": "https://syberspacewarx.github.io/csb-bzju5y/static/js/runtime-main.5ccb0d50.js.map",
+    "static/js/2.5c40b961.chunk.js": "https://syberspacewarx.github.io/csb-bzju5y/static/js/2.5c40b961.chunk.js",
+    "static/js/2.5c40b961.chunk.js.map": "https://syberspacewarx.github.io/csb-bzju5y/static/js/2.5c40b961.chunk.js.map",
+    "index.html": "https://syberspacewarx.github.io/csb-bzju5y/index.html",
+    "static/css/main.f446bcce.chunk.css.map": "https://syberspacewarx.github.io/csb-bzju5y/static/css/main.f446bcce.chunk.css.map",
+    "static/js/2.5c40b961.chunk.js.LICENSE.txt": "https://syberspacewarx.github.io/csb-bzju5y/static/js/2.5c40b961.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ccb0d50.js",
+    "static/js/2.5c40b961.chunk.js",
+    "static/css/main.f446bcce.chunk.css",
+    "static/js/main.70aca6b4.chunk.js"
+  ]
+}
